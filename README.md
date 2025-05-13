@@ -65,7 +65,7 @@ pip install -r requirements.txt
 # 2. Start the Streamlit app
 streamlit run app.py
 
-
+---
 ## Download thease large files 
 GTSRB data set :- https://drive.google.com/file/d/1QJAHDjtyg7oefFnKC7Lgw6QLfIKEfQMQ/view?usp=sharing
 
